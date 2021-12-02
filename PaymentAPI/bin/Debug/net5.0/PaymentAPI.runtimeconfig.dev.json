@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ofari\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ofari\\.nuget\\packages"
+    ]
+  }
+}
