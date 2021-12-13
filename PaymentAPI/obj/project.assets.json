@@ -7366,11 +7366,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ofari\\Desktop\\BACKUP\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+      "projectUniqueName": "C:\\Users\\ofari\\Desktop\\OCBC-PUSH\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
       "projectName": "PaymentAPI",
-      "projectPath": "C:\\Users\\ofari\\Desktop\\BACKUP\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+      "projectPath": "C:\\Users\\ofari\\Desktop\\OCBC-PUSH\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
       "packagesPath": "C:\\Users\\ofari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ofari\\Desktop\\BACKUP\\PaymentAPI\\PaymentAPI\\obj\\",
+      "outputPath": "C:\\Users\\ofari\\Desktop\\OCBC-PUSH\\PaymentAPI\\PaymentAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ofari\\AppData\\Roaming\\NuGet\\NuGet.Config",
